@@ -1,10 +1,11 @@
 # Fossils
 
-This GitHub repository is a backup of my [Fossil](https://fossil-scm.org)
+This is a backup of my [Fossil](https://fossil-scm.org)
 projects / repositories hosted [here](https://imagicthecat.thul.fr/fossils).
 
 They are all FOSS; licenses are available in each repository.
 
-Other mirrors / backups:
+List of mirrors / backups:
 
-- [Chisel](https://chiselapp.com/user/imagicthecat/)
+- [GitHub](https://github.com/ImagicTheCat/fossils)
+- [Internet Archive](https://archive.org/details/imagicthecat-fossils)
